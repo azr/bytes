@@ -2,5 +2,6 @@ bytes
 =====
 
 [![GoDoc](https://godoc.org/github.com/azr/bytes?status.png)](https://godoc.org/github.com/azr/bytes)
+[![Build Status](https://travis-ci.org/azr/bytes.svg?branch=master)](https://travis-ci.org/azr/bytes)
 
 This code was totally inspired from [encoding/json](http://golang.org/src/encoding/json/decode.go).
