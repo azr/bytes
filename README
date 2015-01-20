@@ -1,0 +1,6 @@
+bytes
+=====
+
+[![GoDoc](https://godoc.org/github.com/azr/bytes?status.png)](https://godoc.org/github.com/azr/bytes)
+
+This code was totally inspired from [encoding/json](http://golang.org/src/encoding/json/decode.go).
